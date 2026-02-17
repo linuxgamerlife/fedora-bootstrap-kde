@@ -1,4 +1,4 @@
-# Linux Gamer Life Fedora KDE Bootstrap
+# Linux Gamer Life Fedora KDE Bootstrap (AMD)
 
 This repository contains the Linux Gamer Life Fedora Bootstrap script.
 

@@ -205,26 +205,6 @@ Applies system optimizations:
 
 ---
 
-## Removed Packages
-
-Removes unwanted packages to keep the system clean:
-
-- Thunderbird
-- GNOME Terminal
-- GNOME Disks
-- File Roller
-- Document Scanner
-- Document Viewer
-- HexChat
-- mpv
-- Pidgin
-- GNOME Software
-- Xed
-- Xfburn
-- Eye of MATE
-
----
-
 ## Script Behavior
 
 The script performs the following steps automatically:

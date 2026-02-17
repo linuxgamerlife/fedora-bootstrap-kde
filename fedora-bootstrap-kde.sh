@@ -14,13 +14,6 @@ set -euo pipefail
 # - Virtualization: virt-manager + libvirt/KVM stack
 # - Fedora Media Writer (extra)
 #
-# Removes:
-# - Thunderbird
-# - GNOME Terminal
-# - GNOME Disks
-# - File Roller, Document Scanner, Document Viewer, HexChat, mpv, Pidgin, GNOME Software
-# - Xed, Xfburn, Eye of MATE
-#
 # Tweaks:
 # - Disables NetworkManager-wait-online for faster boot
 #

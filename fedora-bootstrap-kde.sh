@@ -18,7 +18,7 @@ set -euo pipefail
 # - Disables NetworkManager-wait-online for faster boot
 #
 # Run:
-#   curl -fsSL https://tinyurl.com/lgl-fedora | sudo bash
+#   curl -fsSL https://tinyurl.com/lgl-fedora-kde | sudo bash
 
 # -----------------------------
 # Colours (LGL style)
